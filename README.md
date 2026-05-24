@@ -19,6 +19,7 @@ This is an AI-powered FAQ chatbot built using Python and Gradio. It answers pred
 ![UI Screenshot](ui_chatbot.png)
 
 ## UI Link
+-Running on public URL: https://df519ccfd41642ca81.gradio.live
 
 ## 🎯 Internship Task
 Completed as part of CodeAlpha Artificial Intelligence Internship.
