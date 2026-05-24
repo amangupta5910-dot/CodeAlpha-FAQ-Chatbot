@@ -13,5 +13,12 @@ This is an AI-powered FAQ chatbot built using Python and Gradio. It answers pred
 - Gradio
 - Scikit-learn
 
+
+## Project UI
+
+![UI Screenshot](ui_chatbot.png)
+
+## UI Link
+
 ## 🎯 Internship Task
 Completed as part of CodeAlpha Artificial Intelligence Internship.
